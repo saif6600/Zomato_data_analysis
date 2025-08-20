@@ -52,5 +52,5 @@ These visualizations make insights clear and actionable.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/zomato-data-analysis.git
+   git clone https://github.com/saif6600/zomato-data-analysis.git
    cd zomato-data-analysis
